@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a91b3579-82fd-0568-dd99-b999d5731694"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Management Accounting and Control",
+  "course_description": "This course is an introduction to the use of accounting information by managers for decision making, performance evaluation and control. The course should be useful for those who intend to work as management consultants, for LFM (Leaders for Manufacturing) students, and in general, for those who will become senior managers.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.963",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
